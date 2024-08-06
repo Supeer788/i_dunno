@@ -1,0 +1,7 @@
+There are modes like insert (i) and command (esc)
+:w for write
+:q for quit
+:wq for write and quit
+ 
+shortcuts
+1- shift + a = insert at end of line 
