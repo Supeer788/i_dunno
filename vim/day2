@@ -1,0 +1,13 @@
+buffers : a buffer is an open file
+
+if you type x in normal mode you can delete a character
+if you double press d you will delete a whole line
+
+h j k l are like arrow keys
+
+:r clones file from other directory here
+
+:w file.txt   writes contents of file in a new file 
+:q! force quit
+
+:! [Linux command] executes a linux command from vim
